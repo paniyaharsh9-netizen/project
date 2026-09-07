@@ -1,2 +1,2 @@
 # topic 
-this is to make a git repo from local system
+this is to make a git repo from local system.
